@@ -11,7 +11,7 @@ This guide is being created to help those traveling to tech conferences world-wi
 
 # Contributing
 
-Please read the Contribution Guide for details on the process for submitting pull requests to us.
+Please read the [Contribution Guide](https://github.com/TechConferenceTravelersGuide/Introduction/blob/master/CONTRIBUTING.md) for details on the process for submitting pull requests to us.
 
 ## License
 
